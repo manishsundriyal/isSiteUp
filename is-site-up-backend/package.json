@@ -11,6 +11,6 @@
   "dependencies": {
     "express": "^4.17.1",
     "mongoose": "^6.0.12",
-    "ping-monitor": "^0.6.1"
+    "ping": "^0.4.1"
   }
 }
